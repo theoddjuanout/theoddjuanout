@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theoddjuanout
+- 👋 Hi, I’m Juan
 - 👀 I’m interested in data analytics, AI, and machine learning
 - 🌱 I’m currently learning Python programming
 - 📫 You can reach me by Tribe: https://app.withyourtribe.com/u/gx75NX06BwZ
